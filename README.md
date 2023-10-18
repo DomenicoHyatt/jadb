@@ -1,4 +1,4 @@
-# JADB #
+* JADB #
 ADB client implemented in pure Java.
 
 The Android Debug Bridge (ADB) is a client-server architecture used to communicate with Android devices (install APKs, debug apps, etc).
@@ -7,8 +7,8 @@ The Android SDK Tools are available for the major platforms (Mac, Windows & Linu
 
 This projects aims at providing an up to date implementation of the ADB protocol.
 
-![Build Status](https://github.com/vidstige/jadb/actions/workflows/maven.yml/badge.svg)
-[![jitpack badge](https://jitpack.io/v/vidstige/jadb.svg)](https://jitpack.io/#vidstige/jadb)
+ [Build Status](https://github.com/vidstige/jadb/actions/workflows/maven.yml/badge.svg)
+[*[jitpack badge](https://jitpack.io/v/vidstige/jadb.svg)](https://jitpack.io/#vidstige/jadb)
 [![codecov](https://codecov.io/gh/vidstige/jadb/branch/master/graph/badge.svg)](https://codecov.io/gh/vidstige/jadb)
 [![first timers friendly](http://img.shields.io/badge/first--timers--only-friendly-green.svg?style=flat&colorB=FF69B4)](http://www.firsttimersonly.com/)
 
@@ -103,3 +103,4 @@ See [contributors](https://github.com/vidstige/jadb/graphs/contributors) for a f
 
 ## License ##
 This project is released under the Apache License Version 2.0, see [LICENSE.md](LICENSE.md) for more information.
+ 
